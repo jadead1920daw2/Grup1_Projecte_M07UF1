@@ -1,0 +1,9 @@
+"Aerocool Pulse L240F Kit Refrigeracio Liquida RGB","74,99€",1.jpg
+"Nfortec Artemis Cristal Templat USB 3.0 RGB Blanco","64,99€",2.jpg
+"Asus RT-AX56U Router AX1800 WiFi 6 Dual Band MU-MIMO/OFDMA","99,99€",3.jpg
+"HyperX Cloud Flight Auriculares Inalambrics Gaming","89,99€",4.jpg
+"Google Chromecast 3","34,99€",5.jpg
+"Corsair Dark Core RGB Ratoli Gaming 16000DPI","64,99€",6.jpg
+"Gigabyte GeForce RTX 2070 WindForce 2X 8GB GDDR6","429,99€",7.jpg
+"HP Notebook 15-DA0244NS Intel Core i3-7020U/8GB/512GB SSD/15.6"","299,99€",8.jpg
+"Samsung UE65RU6025 65" LED UltraHD 4K","599,99€",9.jpg
